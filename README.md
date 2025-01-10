@@ -1,6 +1,4 @@
-Here’s the revised **README.md** with an explanation of the code and without the project structure:
 
----
 
 # RAG Chatbot with Hugging Face and FAISS  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
